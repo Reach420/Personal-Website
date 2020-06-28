@@ -1,5 +1,6 @@
-h1{
+.home {
     color: red;
     text-align: center;
+    border: 1px solid green;
 }
 
